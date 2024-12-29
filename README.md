@@ -3,7 +3,7 @@
 <div align="center">
   <h1>
     <a href="https://github.com/Clos-Rise">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Д-Добро+пожаловать+в+мой+профиль-!;Меня+зовут+Тифаней!&center=true&size=25" />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Д-Добро+пожаловать+в+мой+профиль!;Меня+зовут+Тифаней!&center=true&size=30" />
     </a>
   </h1>
 </div>
